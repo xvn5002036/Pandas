@@ -11,6 +11,7 @@
   <a href="https://github.com/PandasWS/Pandas/actions/workflows/build_servers_clang.yml">
     <img alt="Clang Status" src="https://img.shields.io/github/actions/workflow/status/PandasWS/Pandas/build_servers_clang.yml?label=clang&logo=llvm&style=flat-square">
   </a>
+  <a href="https://deepwiki.com/kayeeqq/Pandas-1"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
   <!-- GCC Status -->
   <a href="https://github.com/PandasWS/Pandas/actions/workflows/build_servers_gcc.yml">
     <img alt="Clang Status" src="https://img.shields.io/github/actions/workflow/status/PandasWS/Pandas/build_servers_gcc.yml?label=gcc&logo=gnu&style=flat-square">
